@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Projects:
-[Movie Awards] (https://masinette.github.io/shopify-shoppies/)
+- [Movie Awards](https://masinette.github.io/shopify-shoppies/)
 
 Contact Me:
 [LinkedIn](https://ca.linkedin.com/in/toni-ann-samuels?trk=profile-badge)
