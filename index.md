@@ -1,4 +1,4 @@
-# Welcom to Masinette Tech
+# Welcome to Masinette Tech
 
 
 ## Projects:
