@@ -1,5 +1,3 @@
-# Welcome to Masinette Tech
-
 
 ## Projects:
 ___
