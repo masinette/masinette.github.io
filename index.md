@@ -42,7 +42,7 @@ LivTogether started as solution to the current housing crisis in Canada, but has
 ## Tweeter
  Tweeter is a basic Twitter clone, built to take in user tweets and build a user page for them
 
-# Screenshots
+### Screenshots
 ![Desktop view page](https://github.com/masinette/tweeter/blob/master/docs/desktop-view.png?raw=true)
 
 ![Desktop tweet view](https://github.com/masinette/tweeter/blob/master/docs/desktop-tweeter-view.png?raw=true)
@@ -53,13 +53,44 @@ LivTogether started as solution to the current housing crisis in Canada, but has
  Single Page app, built with  jQuery, JavaScript,AJAX, Node, Express, Mongo, HTML, CSS
 
 
+## TinyApp Project
+
+TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+
+### Screenshots
+!["screenshot of urls page"](https://github.com/masinette/tinyapp/blob/master/docs/urls_index.png?raw=true)
+!["screenshot of login page"](https://github.com/masinette/tinyapp/blob/master/docs/urls_login.png?raw=true)
+!["screenshot of registration page"](https://github.com/masinette/tinyapp/blob/master/docs/urls_registration.png?raw=true)
+
+
+## Dependencies
+- Node.js
+- Express
+- EJS
+- bcrypt
+- body-parser
+- cookie-session
+
 ## Contact Me:
 ### 📎 [LinkedIn](https://ca.linkedin.com/in/toni-ann-samuels?trk=profile-badge)
 ### 📎 [Resume](https://www.canva.com/design/DAEZhns-vds/EmOaaGKbXfGiJ2c7uN6TqQ/view?utm_content=DAEZhns-vds&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ### 📎 [GitHub](https://github.com/masinette)
 
 
+## Interview Scheduler
+A scheduler, that allows users to book, edit, or cancel interviews. Single Page app, built with React, Babel, Webpack, Axios, Storybook, Jest, PostgreSQL
 
+### Screenshots
+"View of form section to book an appointment in an empty time slot"
+![View of form section to book an appointment in an empty time slot](https://github.com/masinette/scheduler/blob/master/docs/scheduler_book_appointment.png?raw=true)
+
+
+"View of booked appointments"
+![View of booked appointments](https://github.com/masinette/scheduler/blob/master/docs/scheduler_booked_appointments.png?raw=true)
+
+
+"View of empty time slots, before appointments are created and saved"
+![View of empty time slots, before appointments are created and saved](https://github.com/masinette/scheduler/blob/master/docs/scheduler_book_appointment.png?raw=true)
 
 
 
