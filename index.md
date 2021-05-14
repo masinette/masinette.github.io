@@ -2,14 +2,15 @@
 
 
 ## Projects:
+___
+## Movie Awards
 ### 🎬 [Movie Awards](https://masinette.github.io/shopify-shoppies/)
-
-
+---
+## LivTogether
 ### :house_with_garden: [LivTogether](https://github.com/masinette/LHL-Finals)
 
 LivTogether started as solution to the current housing crisis in Canada, but has grown into a community initiative. We match seniors looking for companionship and a little extra help, with youth looking to rent a safe space and foster new friendships. Our goal is to help senior citizens and young adults to bond and form lasting relationships in our community.
 
----
 ### Screenshot & Demo
 ![Homepage](https://github.com/andyku25/LHL-Finals/blob/presentation-cleanup/Docs/LivTogether_home.png?raw=true)
 
@@ -37,8 +38,7 @@ LivTogether started as solution to the current housing crisis in Canada, but has
 * [mclmnop](https://github.com/mclmnop)
 * [andyku25](https://github.com/andyku25)
 
-
-
+---
 ## Tweeter
  Tweeter is a basic Twitter clone, built to take in user tweets and build a user page for them
 
@@ -71,29 +71,22 @@ TinyApp is a full stack web application built with Node and Express that allows 
 - body-parser
 - cookie-session
 
-## Contact Me:
-### 📎 [LinkedIn](https://ca.linkedin.com/in/toni-ann-samuels?trk=profile-badge)
-### 📎 [Resume](https://www.canva.com/design/DAEZhns-vds/EmOaaGKbXfGiJ2c7uN6TqQ/view?utm_content=DAEZhns-vds&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-### 📎 [GitHub](https://github.com/masinette)
-
-
+---
 ## Interview Scheduler
 A scheduler, that allows users to book, edit, or cancel interviews. Single Page app, built with React, Babel, Webpack, Axios, Storybook, Jest, PostgreSQL
 
 ### Screenshots
-"View of form section to book an appointment in an empty time slot"
 ![View of form section to book an appointment in an empty time slot](https://github.com/masinette/scheduler/blob/master/docs/scheduler_book_appointment.png?raw=true)
 
-
-"View of booked appointments"
 ![View of booked appointments](https://github.com/masinette/scheduler/blob/master/docs/scheduler_booked_appointments.png?raw=true)
 
-
-"View of empty time slots, before appointments are created and saved"
 ![View of empty time slots, before appointments are created and saved](https://github.com/masinette/scheduler/blob/master/docs/scheduler_book_appointment.png?raw=true)
 
-
-
-
+---
+## Contact Me:
+### 📎 [LinkedIn](https://ca.linkedin.com/in/toni-ann-samuels?trk=profile-badge)
+### 📎 [Resume](https://www.canva.com/design/DAEZhns-vds/EmOaaGKbXfGiJ2c7uN6TqQ/view?utm_content=DAEZhns-vds&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### 📎 [GitHub](https://github.com/masinette)
+---
 
 📌 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
