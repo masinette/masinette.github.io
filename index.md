@@ -5,7 +5,7 @@
 ### 🎬 [Movie Awards](https://masinette.github.io/shopify-shoppies/)
 
 
-### :house_with_garden: [LivTogether](https://github.com/masinette/LHL-Finals)
+### 🏡 [LivTogether](https://github.com/masinette/LHL-Finals)
 
 LivTogether started as solution to the current housing crisis in Canada, but has grown into a community initiative. We match seniors looking for companionship and a little extra help, with youth looking to rent a safe space and foster new friendships. Our goal is to help senior citizens and young adults to bond and form lasting relationships in our community.
 
