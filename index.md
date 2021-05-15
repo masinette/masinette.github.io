@@ -52,7 +52,7 @@ LivTogether started as solution to the current housing crisis in Canada, but has
 
 ## TinyApp Project
 
-TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (similar to bit.ly).
 
 ### Screenshots
 !["screenshot of urls page"](https://github.com/masinette/tinyapp/blob/master/docs/urls_index.png?raw=true)
