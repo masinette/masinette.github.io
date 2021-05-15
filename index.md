@@ -2,6 +2,11 @@
 ## Projects:
 ___
 ## Movie Awards
+The Movie Awards allow you to choose up to five of your favourite movies for the Shoppies Movie Awards!
+
+### Key Dependencies
+ Single Page app, built with  React, HTML, CSS, OMDb API
+
 ### 🎬 [Movie Awards](https://masinette.github.io/shopify-shoppies/)
 
 ### 🏡 [LivTogether](https://github.com/masinette/LHL-Finals)
@@ -62,7 +67,7 @@ TinyApp is a full stack web application built with Node and Express that allows 
 
 ## Dependencies
 - Node.js
-- Express
+- Expresbs
 - EJS
 - bcrypt
 - body-parser
