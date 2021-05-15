@@ -1,14 +1,13 @@
 
 ## Projects:
 ___
-## Movie Awards
+
+### 🎬 [Movie Awards](https://masinette.github.io/shopify-shoppies/)
+
 The Movie Awards allow you to choose up to five of your favourite movies for the Shoppies Movie Awards!
 
 ### Key Dependencies
  Single Page app, built with  React, HTML, CSS, OMDb API
-
-### 🎬 [Movie Awards](https://masinette.github.io/shopify-shoppies/)
-
 ### 🏡 [LivTogether](https://github.com/masinette/LHL-Finals)
 
 LivTogether started as solution to the current housing crisis in Canada, but has grown into a community initiative. We match seniors looking for companionship and a little extra help, with youth looking to rent a safe space and foster new friendships. Our goal is to help senior citizens and young adults to bond and form lasting relationships in our community.
