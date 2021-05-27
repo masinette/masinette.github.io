@@ -6,12 +6,17 @@ ___
 
 The Movie Awards allow you to choose up to five of your favourite movies for the Shoppies Movie Awards!
 
-
-### [EXP|CON](https://masinette.github.io/speers-expcon/)
-Frontend only example. Built in React. 
-
-### Key Dependencies
+## Tools
  Single Page app, built with  React, HTML, CSS, OMDb API
+ 
+ 
+### [:microphone: EXP|CON](https://masinette.github.io/speers-expcon/)
+Adverstising for a company (fictional) that connects users with an interactive online concert experience. 
+
+## Tools
+ Multi-page app, built with  React, HTML, and CSS
+
+
 ### 🏡 [LivTogether](https://github.com/masinette/LHL-Finals)
 
 LivTogether started as solution to the current housing crisis in Canada, but has grown into a community initiative. We match seniors looking for companionship and a little extra help, with youth looking to rent a safe space and foster new friendships. Our goal is to help senior citizens and young adults to bond and form lasting relationships in our community.
