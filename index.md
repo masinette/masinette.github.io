@@ -6,6 +6,10 @@ ___
 
 The Movie Awards allow you to choose up to five of your favourite movies for the Shoppies Movie Awards!
 
+
+### [EXP|CON](https://masinette.github.io/speers-expcon/)
+Frontend only example. Built in React. 
+
 ### Key Dependencies
  Single Page app, built with  React, HTML, CSS, OMDb API
 ### 🏡 [LivTogether](https://github.com/masinette/LHL-Finals)
