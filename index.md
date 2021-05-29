@@ -9,6 +9,7 @@ The Movie Awards allow you to choose up to five of your favourite movies for the
 ## Tools
  Single Page app, built with  React, HTML, CSS, OMDb API
  
+ ---
  
 ### [:microphone: EXP|CON](https://masinette.github.io/speers-expcon/)
 Advertising for a company (fictional) that connects users with an interactive online concert experience. 
