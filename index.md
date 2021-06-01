@@ -4,7 +4,7 @@ ___
 
 ### 🎬 [Movie Awards](https://masinette.github.io/shopify-shoppies/)
 
-The Movie Awards allow you to choose up to five of your favourite movies for the Shoppies Movie Awards!
+The Movie Awards allow you to choose up to five of your favourite movies for the 'Shoppies' Movie Awards!
 
 ## Tools
  Single Page app, built with  React, HTML, CSS, OMDb API
