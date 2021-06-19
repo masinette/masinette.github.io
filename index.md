@@ -11,7 +11,7 @@ The Movie Awards allow you to choose up to five of your favourite movies for the
  
  ---
  
-### [:microphone: EXP|CON](https://masinette.github.io/speers-expcon/)
+### [:speaker: EXP|CON](https://masinette.github.io/speers-expcon/)
 Advertising for a company (fictional) that connects users with an interactive online concert experience. 
 
 ## Tools
